@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This Ruby on Rails application is a simulation of personal blog like website.
 
-Things you may want to cover:
+My Blog link take you to the blog posts/articles that exists.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Following tasks can be performed in this app:
+-Create new article
+-Edit an article
+-Delete an article
+-View all aticles
